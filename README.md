@@ -1,4 +1,4 @@
-### Hi there 👋
+ww### Hi there 👋
 
 ## Languages and Stuff
 
@@ -15,6 +15,9 @@
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-[PWSH]  
+<img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/microsoft/vscode-codicons/main/src/icons/terminal-powershell.svg" />
+
+
+
 
 [website: https://www.joshsw.dev]
