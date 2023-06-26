@@ -1,4 +1,4 @@
-ww### Hi there 👋
+### Hi there 👋
 
 ## Languages and Stuff
 
@@ -16,8 +16,3 @@ ww### Hi there 👋
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /> 
-
-
-
-
-[website: https://www.joshsw.dev]
